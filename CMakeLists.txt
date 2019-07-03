@@ -9,4 +9,4 @@ message(STATUS "EIGEN3_DIR:"  ${EIGEN3_INCLUDE_DIR})
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(daily_learn eigen_quaternion_learn.cpp)
-add_executable(eigen_matrix eigen_matrix.cpp)
+add_executable(test_so3_update test_quaternion_so3_update.cpp)
