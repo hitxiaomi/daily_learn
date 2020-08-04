@@ -1,5 +1,6 @@
 {
     "files.associations": {
+<<<<<<< HEAD
         "ostream": "cpp",
         "cctype": "cpp",
         "clocale": "cpp",
@@ -56,5 +57,8 @@
         "cfenv": "cpp",
         "cinttypes": "cpp",
         "typeinfo": "cpp"
+=======
+        "ostream": "cpp"
+>>>>>>> eb2710d47473f7688212cffd4e4efd4d92309198
     }
 }
