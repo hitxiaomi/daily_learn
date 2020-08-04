@@ -42,19 +42,5 @@ int main(int argc,char** argv){
     std::cout<<std::endl<<"if not normilzed"<<std::endl;
     std::cout<<quaternion_after_update.toRotationMatrix()<<std::endl;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return  0;
 }
